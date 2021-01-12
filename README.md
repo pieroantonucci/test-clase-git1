@@ -1,9 +1,9 @@
 # test-clase-git1
 Repositorio para probar github
 
-#Hola
+# Hola
 
-##Clase
+## Clase
 
 Voy a generar unas modificaciones al archivo que tengo aquí de prueba
 
